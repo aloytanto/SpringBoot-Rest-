@@ -6,7 +6,7 @@ Spring Boot REST API use MySQL database, Spring JPA, and Swagger UI for API Docu
 ```bash
 Java JDK 1.8
 Maven
-Project Lombok
+
 ```
 
 
